@@ -1,4 +1,4 @@
-# https-trausic.netlify.app-
+# Trausic
 It is a job searching application here it is uniquely for traditional music jobs
 
 
